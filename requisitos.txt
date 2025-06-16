@@ -1,0 +1,14 @@
+API:
+- fastapi
+- uvicorn
+
+Database:
+- sqlalchemy
+- psycopg2
+
+Lint:
+- flake8
+- black
+
+Pruebas:
+- pytest
